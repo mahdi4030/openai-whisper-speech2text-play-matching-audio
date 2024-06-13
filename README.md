@@ -6,8 +6,6 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This application is developed for **Darren Shaw** for his cardboard cutout showcase.
-
 ### Prerequisites
 
 * Python >= 3.9.x
